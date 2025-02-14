@@ -36,9 +36,11 @@
 
 <div align="left">
 <a href="mailto:tuemail@outlook.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook logo" />
 </a>
-
+<a href="https://wa.me/524351218024?text=Hola%2C%20estoy%20interesado%20en%20tus%20servicios%21" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="Outlook logo" />
+</a>
 </div>
 
 ###
