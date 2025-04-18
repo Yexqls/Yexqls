@@ -1,5 +1,5 @@
 <h2 align="left">Hola mundo🌍! Mi nombre es Yucli Emmanuel soy un programador jr</h2>
-
+<p></p>
 ###
 
 <div align="center">
@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJtaGhueDczZWxmb2ZvNDJ2ZXM0MXZyc3d5MzdiZzVvdTV0NzJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQRfz2VfUbDeebczif/giphy.gif"  />
 
 ###
-
+<h2>Tecnologias</h2>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@
 </div>
 
 ###
-
+<h2>Contactame</h2>
 <div align="left">
 <a href="mailto:tuemail@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook logo" />
