@@ -2,6 +2,17 @@
 <p>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">@TORO DIGITAL
 </a></p>
 
+<h2>Experiencia</h2>
+<header style = 'display:flex'>Centro de Innovación y Desarrollo Agroalimentario de Michoacán.                           Jun – Dic 2024</header>
+Cargo | Programador full stack 
+<p>•	Trabajé con un equipo para migrar la plataforma de OC CIDAM de PHP puro al framework Laravel, mejorando significativamente el rendimiento y la estabilidad.</p>
+<p>•	Logré una mejora del 30% en la velocidad de la plataforma y una reducción de errores en los procesos críticos al tener la plataforma en producción.</p>
+<p>•	Me encargue del rediseño del UI y de los pdfs para mejorar la accesibilidad y la experiencia del Usuario</p>
+<p>•	Diseñar e implementar módulos funcionales del aplicativo web, así como automatice funciones para tareas repetitivas en el backend como el llenado de datos, optimizando y mejorando la eficiencia de los procesos claves.</p>
+<p>•	Implementación de librerías para la validación de formularios, las alertas interactivas y la generación de reportes en pdfs, aumentando la eficiencia operativa.</p>
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yexqls&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
