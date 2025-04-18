@@ -1,5 +1,6 @@
 <h2 align="left">Hola mundo🌍! Mi nombre es Yucli Emmanuel soy un programador jr</h2>
-<p>Actualmente trabjanado para @ToroDigital</p>
+<p>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">TORO DIGITAL
+</a></p>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJtaGhueDczZWxmb2ZvNDJ2ZXM0MXZyc3d5MzdiZzVvdTV0NzJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQRfz2VfUbDeebczif/giphy.gif"  />
 
 
