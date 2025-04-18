@@ -1,10 +1,12 @@
 <h2 align="left">Hola mundo🌍! Mi nombre es Yucli Emmanuel soy un programador jr</h2>
-<p>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">@TORO DIGITAL
-</a></p>
+<strong>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">@TORO DIGITAL
+</a></strong>
 
 <h2>Experiencia</h2>
-<header style = 'display:flex'>Centro de Innovación y Desarrollo Agroalimentario de Michoacán.                           Jun – Dic 2024</header>
-Cargo | Programador full stack 
+<header style='display:flex'>
+  Centro de Innovación y Desarrollo Agroalimentario de Michoacán. Jun – Dic 2024
+</header>
+<p>Cargo | Programador full stack </p>
 <p>•	Trabajé con un equipo para migrar la plataforma de OC CIDAM de PHP puro al framework Laravel, mejorando significativamente el rendimiento y la estabilidad.</p>
 <p>•	Logré una mejora del 30% en la velocidad de la plataforma y una reducción de errores en los procesos críticos al tener la plataforma en producción.</p>
 <p>•	Me encargue del rediseño del UI y de los pdfs para mejorar la accesibilidad y la experiencia del Usuario</p>
