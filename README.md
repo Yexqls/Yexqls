@@ -1,13 +1,13 @@
 <h2 align="left">Hola mundo🌍! Mi nombre es Yucli Emmanuel soy un programador jr</h2>
-<p>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">TORO DIGITAL
+<p>Actualmente trabajando en   <a href="https://github.com/torodigital" target="_blank">@TORO DIGITAL
 </a></p>
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJtaGhueDczZWxmb2ZvNDJ2ZXM0MXZyc3d5MzdiZzVvdTV0NzJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQRfz2VfUbDeebczif/giphy.gif"  />
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yexqls&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJtaGhueDczZWxmb2ZvNDJ2ZXM0MXZyc3d5MzdiZzVvdTV0NzJ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQRfz2VfUbDeebczif/giphy.gif"  />
+
 
 
 <h2>Tecnologias</h2>
@@ -27,10 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-
 </div>
 
-###
 <h2>Contactame</h2>
 <div align="left">
 <a href="mailto:tuemail@outlook.com" target="_blank">
