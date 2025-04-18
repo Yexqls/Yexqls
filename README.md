@@ -4,7 +4,7 @@
 
 <h2>Experiencia</h2>
 <header style='display:flex'>
-  Centro de Innovación y Desarrollo Agroalimentario de Michoacán. Jun – Dic 2024
+  Centro de Innovación y Desarrollo Agroalimentario de Michoacán.         Jun – Dic 2024
 </header>
 <p>Cargo | Programador full stack </p>
 <p>•	Trabajé con un equipo para migrar la plataforma de OC CIDAM de PHP puro al framework Laravel, mejorando significativamente el rendimiento y la estabilidad.</p>
